@@ -4,3 +4,4 @@ prints the absolute path name of the current working directory.
 2-bring_me_home + cd / ( changes the working directory to the user’s home directory )
 3-listfiles = ls -l
 4-listmorefiles = ls -la
+5-listfilesdigitonly = ls -lan
